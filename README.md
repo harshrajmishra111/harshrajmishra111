@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color:#FFDD00;">🌐 Connect with me</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color:#FFDD00;">🌐 Connect With ME</h3>
 <div align="center">
   <a href="https://linkedin.com/in/harsh-raj-mishra-872132289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -98,7 +98,7 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color:#FFDD00;">🎉 Fun Animation</h3>
 <p align="center">
-  <img src="https://path-to-your-animation.gif" alt="Fun Animation" width="300"/>
+ 
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
