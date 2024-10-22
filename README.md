@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color:#00FFAB;">HARSH RAJ MISHRA</h1>
 
----
+----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFDD00&size=25&center=true&vCenter=true&lines=ML/AI+Developer...;IOS+Developer...;DSA" alt="Train Light Effect" />
