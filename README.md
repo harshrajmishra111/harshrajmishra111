@@ -19,7 +19,7 @@
   </a>
 </div>
 
----
+----
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color:#FFDD00;">🌐 Connect With ME</h3>
 <div align="center">
@@ -34,7 +34,7 @@
   </a>
 </div>
 
----
+----
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color:#FFDD00;">⚙️ Skills and Technologies</h3>
 
