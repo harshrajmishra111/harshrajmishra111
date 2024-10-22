@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFDD00&size=25&center=true&vCenter=true&lines=ML/AI+Developer...;IOS+Developer...;DSA" alt="Train Light Effect" />
 </p>
 
----
+----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshrajmishra111&label=Profile%20views&color=FF69B4&style=flat" alt="Profile Views" />
