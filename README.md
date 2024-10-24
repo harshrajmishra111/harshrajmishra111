@@ -15,10 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/harshrajmishra111">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15&exclude=Issues,PullRequest,Reviews&row=2&column=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
-
 
 ----
 
