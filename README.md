@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj-mishra-872132289)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.harshrajmishra.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshRajMishra1995)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajmishra111)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajmishra.hrm@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshrajmishra111)
 
@@ -38,9 +38,9 @@
 
 ---
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🧠 About Me
+
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 harsh = {
@@ -60,7 +60,7 @@ harsh = {
 
 ## ⏰ Coding Habits
 
-**🦉 I'm a Night Owl**
+🦉 **I'm a Night Owl**
 
 ```text
 🌞 Morning    ███░░░░░░░░░░░░░░░░░░░░░░   10 %
@@ -69,7 +69,7 @@ harsh = {
 🌙 Night      ████░░░░░░░░░░░░░░░░░░░░░   15 %
 ```
 
-**📊 Languages I Use Most**
+📊 **Languages I Use Most**
 
 ```text
 Python           ████████████████░░░░░░░░   65 %
@@ -125,18 +125,13 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 
 ## 🌐 Portfolio
 
-> 🔗 Click to visit → [harshrajmishra.in](https://www.harshrajmishra.in)
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio%20→%20harshrajmishra.in-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.harshrajmishra.in)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshrajmishra111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajmishra111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="40%" />
+[![Visit](https://img.shields.io/badge/🌐%20harshrajmishra.in-6EE7B7?style=for-the-badge)](https://www.harshrajmishra.in)
+
+<a href="https://www.harshrajmishra.in">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.harshrajmishra.in&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1280&viewport.height=720" width="80%" alt="Portfolio Screenshot" />
+</a>
 
 </div>
 
@@ -147,19 +142,11 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshRajMishra1995/HarshRajMishra1995/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshRajMishra1995/HarshRajMishra1995/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/HarshRajMishra1995/HarshRajMishra1995/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshrajmishra111/harshrajmishra111/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshrajmishra111/harshrajmishra111/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/harshrajmishra111/harshrajmishra111/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 ---
