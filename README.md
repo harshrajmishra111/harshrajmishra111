@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=250&section=header&text=Harsh%20Raj%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=22&descColor=6EE7B7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,20:1a1a6e,40:4b0082,60:6a0dad,80:302b63,100:0f0c29&height=280&section=header&text=Harsh%20Raj%20Mishra&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=22&descColor=6EE7B7&stroke=6EE7B7&strokeWidth=1" width="100%" />
 </div>
 
 <div align="center">
@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj-mishra-872132289)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.harshrajmishra.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajmishra111)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajmishra.hrm@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harshrajmishra111)
 
@@ -40,7 +39,9 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td valign="top" width="70%">
 
 ```python
 harsh = {
@@ -54,7 +55,12 @@ harsh = {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="30%" align="center">
+<img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,7 +136,7 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 [![Visit](https://img.shields.io/badge/🌐%20harshrajmishra.in-6EE7B7?style=for-the-badge)](https://www.harshrajmishra.in)
 
 <a href="https://www.harshrajmishra.in">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.harshrajmishra.in&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1280&viewport.height=720" width="80%" alt="Portfolio Screenshot" />
+  <img src="https://raw.githubusercontent.com/harshrajmishra111/harshrajmishra111/main/portfolio-preview.png" width="80%" alt="Portfolio Preview" />
 </a>
 
 </div>
@@ -180,6 +186,6 @@ Other            ██░░░░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajmishra.hrm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.harshrajmishra.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:302b63,40:6a0dad,60:4b0082,80:1a1a6e,100:0a0a2e&height=180&section=footer" width="100%" />
 
 </div>
